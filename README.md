@@ -1,3 +1,5 @@
+[Render](https://ws-backend-hzzi.onrender.com)
+
 # Домашнее задание к занятию "8. EventSource, Websockets"
 
 Правила сдачи задания:
